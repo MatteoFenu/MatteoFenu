@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Fenu</h1>
 <p align="center">I am a working student, currently employed as a software developer at Sailing Srl, while pursuing a Master's Degree in Computer Science and Programming at the Department of Mathematics and Computer Science at the <a href="https://www.unica.it/it" rel="nofollow">University of Cagliari</a>.</p>
 
-- 📫 How to reach me **matteo.fenu@hotmail.it** or on <a href="https://www.linkedin.com/in/matteo-fenu/" rel="nofollow">
+- 📫 How to reach me: **matteo.fenu@hotmail.it** or on <a href="https://www.linkedin.com/in/matteo-fenu/" rel="nofollow">
         <img align="center" src="https://camo.githubusercontent.com/fe90888cd46c1bc093082b292d633cbf0c7c43856f12d9470991005efeb26bc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
 <h3 align="left">Languages and Tools:</h3>
