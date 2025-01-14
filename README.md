@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matteo Fenu</h1>
-<p align="center">I am a software developer at  <a href="https://www.tekneretail.it/" rel="nofollow">Tekne</a>, and I hold a Master's Degree in Computer Science and Programming from the Department of Mathematics and Computer Science at the <a href="https://www.unica.it/it" rel="nofollow">University of Cagliari</a>.</p>
+<p align="center">I am a software developer at  <a href="https://www.tekneretail.it/" rel="nofollow" target='_blank'>Tekne</a>, and I hold a Master's Degree in Computer Science and Programming from the Department of Mathematics and Computer Science at the <a href="https://www.unica.it/it" rel="nofollow" target='_blank'>University of Cagliari</a>.</p>
 
 - 📫 How to reach me: **matteo.fenu@hotmail.it** or on <a href="https://linkedin.com/in/matteo-fenu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-fenu" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
