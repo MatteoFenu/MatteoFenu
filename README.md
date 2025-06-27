@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matteo Fenu</h1>
-<p align="center">I am a software engineer at <a href="https://www.dialogausili.com/it/" rel="nofollow" target='_blank'>Dialog Ausili</a> (<a href="https://www.grupposapio.it/" rel="nofollow" target='_blank'>Sapio Group</a>, and I hold a Master's Degree in Computer Science and Programming from the Department of Mathematics and Computer Science at the <a href="https://www.unica.it/it" rel="nofollow" target='_blank'>University of Cagliari</a>.</p>
+<p align="center">I am a software engineer at <a href="https://www.dialogausili.com/it/" rel="nofollow" target='_blank'>Dialog Ausili</a> (<a href="https://www.grupposapio.it/" rel="nofollow" target='_blank'>Sapio Group</a>), and I hold a Master's Degree in Computer Science and Programming from the Department of Mathematics and Computer Science at the <a href="https://www.unica.it/it" rel="nofollow" target='_blank'>University of Cagliari</a>.</p>
 
 <p>You can take a look at my <a href="https://matteofenu.github.io/" rel="nofollow" target='_blank'>portfolio</a>!</p>
 
